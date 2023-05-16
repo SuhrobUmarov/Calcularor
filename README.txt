@@ -19,4 +19,17 @@ Button "0" - Number 0
 Button "." - Decimal Point
 Button "+" - Addition
 Button "=" - Equal Sign
-Button "C" - Clear
+Button "C" - Clear All
+List of buttons that are not implemented:
++/-   Plus/minus toggles the pos/neg sign of the displayed number
+mc   Memory clear
+mr   Memory recall
+m-   Memory minus
+m+   Memory plus
+CE   Clear entry
+√x   Square root
+%   Percentage
+π   pi = 3.1415926536
+xy   Exponent
+R2   Round to 2 decimals (cents)
+R0   Round to 0 decimals (dollars)
